@@ -5,3 +5,4 @@ function test() {
 xcxcxc}sdsdsd
  sdsd
 test(); sdsd
+ sdsd
