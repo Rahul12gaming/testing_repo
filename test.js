@@ -8,4 +8,3 @@ function test() {
 }
 
 test();
-test();
